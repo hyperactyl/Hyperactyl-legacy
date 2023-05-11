@@ -1,7 +1,7 @@
 ![hyperactyl](https://cdn.discordapp.com/icons/1054382462999994458/f6a0a76f5f97057ff517148ce0d2e4eb.png?width=989&height=468)
 
 ## Warning
-This is a legacy edition, it will still recieve updates and bug fixes. We recommend to use the newer [version](https://github.com/Hyperactyl/Hyperactyl.
+This is a legacy edition, it will still recieve updates and bug fixes. We recommend to use the newer ![version](https://github.com/Hyperactyl/Hyperactyl.
 
 # Hyperactyl 
 ## What Is Hyperactyl?
