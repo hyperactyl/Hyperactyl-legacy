@@ -1,0 +1,44 @@
+{
+  "name": "hyperactyl",
+  "version": "0.0.3",
+  "description": "A Dashboard For Splitting Resources And Servers In Pterodactyl",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyperactyl/hyperactyl.git"
+  },
+  "keywords": [
+    "pterodactyl-dashboard",
+    "hyperactyl",
+    "dashactyl"
+  ],
+  "author": "ItzCrazyKns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyperactyl/hyperactyl/issues"
+  },
+  "homepage": "https://github.com/hyperactyl/hyperactyl#readme",
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.4",
+    "better-sqlite3": "^8.1.0",
+    "better-sqlite3-session-store": "^0.1.0",
+    "body-parser": "^1.20.2",
+    "chalk": "^4.1.0",
+    "ejs": "^3.1.8",
+    "email-validator": "^2.0.4",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "express-ws": "^5.0.2",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "googleapis": "^111.0.0",
+    "javascript-obfuscator": "^4.0.2",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^2.6.9",
+    "source-map-support": "^0.5.21"
+  }
+}
